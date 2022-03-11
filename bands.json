@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Metallica",
+    "genre": "Metal",
+    "active": true
+  },
+  {
+    "name": "Judas Priest",
+    "genre": "Metal"
+  }
+]
